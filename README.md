@@ -29,3 +29,4 @@ Power Query
 DAX (Data Analysis Expression)
 CSV Files
 
+Dashboard Home page (Screenshot for hospitality dashboard.png)
