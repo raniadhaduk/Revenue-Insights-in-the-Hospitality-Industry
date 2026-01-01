@@ -28,4 +28,6 @@ Power BI Desktop
 Power Query
 DAX (Data Analysis Expression)
 CSV Files
+
+Dashboard Home Page Screenshot
 (https://github.com/raniadhaduk/Revenue-Insights-in-the-Hospitality-Industry/blob/main/Screenshot%20for%20hospitality%20dashboard.png)
