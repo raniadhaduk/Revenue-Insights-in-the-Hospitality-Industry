@@ -1,6 +1,5 @@
 Hospitality Revenue Insights Dashboard Project
 This project details an end-to-end data analytics solution developed for the hospitality domain, mimicking a real-life scenario for a multinational hotel chain.
-
 1. Project Overview
 The objective of this project was to generate comprehensive Revenue insights for the management of an imaginary company named Atli Grands, which operates multiple five-star hotels across India. Facing stiff competition, the company required a dashboard to facilitate actionable decision-making.
 2. The project followed a standard industry execution flow, including understanding stakeholder requirements (provided by a domain expert/revenue manager), creating mockups and solution design, data gathering and modeling, dashboard construction, and incorporating stakeholder feedback.
