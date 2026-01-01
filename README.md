@@ -8,7 +8,7 @@ The final dashboard was designed to provide both high-level Level 1 metrics and 
 
 Core Key Performance Indicators (KPIs)
 The dashboard prominently features the following key metrics:
-• Revenue.
+• Revenue
 • Occupancy Percentage: Total successful bookings divided by total capacity
 • RevPar (Revenue per Available Room): Calculated as Total Revenue divided by Total Rooms Available to Sell, or ADR multiplied by Occupancy
 • ADR (Average Daily Rate): The average rate at which rooms were sold
